@@ -1,7 +1,7 @@
 
 #include "main.h"
 
-uint8_t state_RGB = 1;
+uint8_t state_RGB = 44;
 uint8_t RGB_En = 1;
 uint32_t timer_RGB = 0;
 
